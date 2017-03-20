@@ -1,0 +1,5 @@
+chicken,
+salt,
+pepper,
+chilli powder,
+350F for 1.5hrs
